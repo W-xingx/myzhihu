@@ -1,0 +1,111 @@
+.index_top{
+    width:100%;
+    height: 0.35rem;
+    background: #1876d0;
+}
+.collect_navc{
+    height: 0.7rem;
+    line-height: 0.7rem;
+    background: #01a3ee;
+    position: relative;
+    z-index: 999;
+}
+.navc_ima{
+    height: 0.3rem;
+    line-height: 0.7rem;
+    vertical-align: middle;
+    text-align: center;
+    margin-left:0.3rem;
+}
+.navc_numc{
+    vertical-align: middle;
+    color: #fff;
+    margin-left: 0.5rem;
+    font-size: 0.35rem;
+}
+/*收藏内容*/
+.collect_cont{
+    margin-top:0.1rem;
+    padding: 0 0.2rem;
+    position: relative;
+}
+.list_news li{
+    border:0.01rem solid #dadada;
+    height: 2rem;
+    background: #fff;
+    margin-bottom:0.2rem;
+    padding:0.1rem;
+    display: flex;
+}
+.news_left{
+    flex: 9;
+}
+.news_left p{
+    font-size: 0.3rem;
+    line-height: 0.5rem;
+}
+.news_right{
+    flex: 3;
+}
+.news_right img{
+    height: 1.7rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

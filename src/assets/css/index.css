@@ -1,0 +1,173 @@
+.index_top{
+    width:100%;
+    height: 0.35rem;
+    background: #1876d0;
+    position: relative;
+    z-index: 999;
+}
+.index_nav{
+    height: 0.75rem;
+    background: #00a2ed;
+    display: flex;
+    position: relative;
+    z-index: 9999;
+}
+.nav_left{
+    flex: 6;
+    height: 0.75rem;
+    line-height: 0.75rem;
+    padding-left: 0.3rem;
+}
+.nav_lig{
+    height: 0.39rem;
+    line-height: 0.39rem;
+    width:0.5rem;
+    text-align: left;
+    vertical-align: middle;
+}
+.nav_fis{
+    margin-left: 0.5rem;
+    color: #fff;
+    font-size: 0.35rem;
+    vertical-align: middle;
+}
+.nav_right{
+    flex: 6;
+    height: 0.75rem;
+    line-height: 0.75rem;
+    text-align: right;
+    padding-right: 0.3rem;
+}
+.nav_lin{
+    height: 0.39rem;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+}
+.nav_lie{
+    height: 0.49rem;
+    vertical-align: middle;
+}
+
+
+/*抽屉*/
+.my-drawer {
+    position: relative;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.my-drawer .am-drawer-sidebar {
+    background-color: #fff;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.my-drawer .am-drawer-sidebar .am-list {
+    width: 300px;
+    padding: 0;
+}
+
+/*banner图*/
+.index_banner{
+    margin-top:0.1rem;
+}
+.index_banner img{
+    height: 4rem;
+    width:100%;
+
+}
+/*新闻列表*/
+.index_list{
+    padding: 0.22rem;
+    background: #f3f3f3;
+    position: relative;
+}
+.list_topic{
+    font-size: 0.3rem;
+    color: #6b6b6b;
+    padding: 0.2rem 0;
+}
+.list_news li{
+    border:0.01rem solid #dadada;
+    height: 2rem;
+    background: #fff;
+    margin-bottom:0.2rem;
+    padding:0.1rem;
+    display: flex;
+}
+.news_left{
+    flex: 9;
+}
+.news_left p{
+    font-size: 0.3rem;
+    line-height: 0.5rem;
+}
+.news_right{
+    flex: 3;
+}
+.news_right img{
+    height: 1.7rem;
+}
+/*滑动导航*/
+.index_name{
+    height: 2.5rem;
+    background: #00a2ed;
+    padding: 0.3rem;
+    margin-top:1rem;
+}
+.ima_img{
+    width:0.9rem;
+    height: 0.9rem;
+    border-radius: 50%;
+}
+.ima_name{
+    margin-left:0.3rem;
+    color: #fff;
+    font-size: 0.35rem;
+}
+.index_class{
+    display: flex;
+    margin-top:1rem;
+}
+.class_left{
+    flex: 6;
+    text-align: center;
+}
+.left_col{
+    width:0.4rem;
+    height: 0.4rem;
+}
+.left_word{
+    font-size: 0.3rem;
+    color: #fff;
+    margin-left:0.4rem;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.class_right{
+    flex:6;
+    text-align: center;
+}
+.life_list li{
+    height: 1rem;
+    line-height: 1rem;
+    background: #f0f0f0;
+}
+.life_ima{
+    width:0.35rem;
+    height: 0.35rem;
+    margin-left:0.3rem;
+}
+.life_title{
+    font-size: 0.3rem;
+    color: #119ae8;
+    vertical-align: middle;
+    margin-left:0.4rem;
+}
+
+
+
+
+
+
+
+
+
